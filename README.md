@@ -42,3 +42,7 @@ The goal is to cover as many needs and niches as possible without being overbear
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+
+---
+
+[jakefrommars64.com](https://jakefrommars64.com/)
