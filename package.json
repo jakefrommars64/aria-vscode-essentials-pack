@@ -5,6 +5,8 @@
     "version": "0.0.1",
     "publisher": "jakefrommars64",
     "repository": "https://github.com/jakefrommars64/[extension-pack]",
+    "license": "The Unlicense",
+    "icon": "icon/icon.png",
     "engines": {
         "vscode": "^1.92.0"
     },
