@@ -4,7 +4,24 @@ All notable changes to the "extension-pack" extension pack will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.1]
+## [0.0.3] - 2024-09-03
+
+### Added
+
+- GitHub Issue Templates
+
+### Changed
+
+- Updated README with a list of included extensions.
+- Updated README with a more in depth description.
+
+## [0.0.2] - 2024-09-03
+
+### Added
+
+- icons.
+
+## [0.0.1] - 2024-09-03
 
 - Initial release
 - Added initial list of extensions:
