@@ -1,4 +1,4 @@
-# Aria VSCode Essentials Pack README
+# Aria VSCode Essentials Pack
 
 <img src="icon/icon.png" width="25%" alt="Aria VSCode Essentials Pack icon">
 
