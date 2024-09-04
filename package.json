@@ -100,7 +100,7 @@
         "christian-kohler.path-intellisense",
         "esbenp.prettier-vscode",
         "rvest.vs-code-prettier-eslint",
-        "svipas.prettier-plus",
+        "Shunqian.prettier-plus",
         "alefragnani.project-manager",
         "mechatroner.rainbow-csv",
         "foxundermoon.shell-format",
@@ -112,7 +112,6 @@
         "redhat.vscode-yaml",
         "formulahendry.code-runner",
         "royaction.color-manager",
-        "svipas.control-snippets",
         "DavidAnson.vscode-markdownlint",
         "redhat.vscode-xml"
     ]
