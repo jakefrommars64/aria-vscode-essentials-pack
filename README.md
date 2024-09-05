@@ -6,6 +6,11 @@ Aria's VSCode Essentials Pack is a language agnostic extension pack for VSCode w
 
 The goal is to cover as many needs and niches as possible without being overbearing. If you have any suggestions on extentions to add or remove, or if you have other comments or suggestions, create an issue on the [GitHub Page](https://github.com/jakefrommars64/aria-vscode-essentials-pack/issues).
 
+- [Aria VSCode Essentials Pack](#aria-vscode-essentials-pack)
+  - [Extensions](#extensions)
+  - [Extensions Being Considered for Addition](#extensions-being-considered-for-addition)
+
+
 ## Extensions
 
 - [emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
@@ -96,6 +101,41 @@ The goal is to cover as many needs and niches as possible without being overbear
     > Markdown/CommonMark linting and style checking for Visual Studio Code
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
     > XML Language Support by Red Hat
+
+## Extensions Being Considered for Addition
+
+** The following cannot render properly on GitHub as it uses markdown-it styling. For proper rendering open in VSCode with the extension [Markdown Extended](https://marketplace.visualstudio.com/items?itemName=jebbs.markdown-extended) installed **
+
+!!! success Likely to be added
+
+    - [Checkpoints](https://marketplace.visualstudio.com/items?itemName=micnil.vscode-checkpoints)
+
+!!! warning Strongly being considered
+    
+    - [Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat)
+    - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+    - [MetaGo](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
+
+!!! failure On the table
+    
+    - [Easy Snippet](https://marketplace.visualstudio.com/items?itemName=inu1255.easy-snippet)
+    - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+    - [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+    - [Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete)
+
+!!! danger More research required
+    
+    - [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete)
+    - [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
+    - [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
+    - [macros](https://marketplace.visualstudio.com/items?itemName=ctf0.macros)
+    - [Multiple clipboards for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+    - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+    - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+    - [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap)
+    - [Search Editor: Apply Changes](https://marketplace.visualstudio.com/items?itemName=jakearl.search-editor-apply-changes)
+    - [Settings Cycler](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-settings-cycler)
+    - [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 
 ---
 
