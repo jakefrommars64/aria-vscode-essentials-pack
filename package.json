@@ -2,7 +2,7 @@
     "name": "aria-vscode-essentials-pack",
     "displayName": "Aria VSCode Essentials Pack",
     "description": "Language agnostic essential extensions for VSCode.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "jakefrommars64",
     "author": "Jacob Davis",
     "repository": "https://github.com/jakefrommars64/aria-vscode-essentials-pack",
